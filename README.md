@@ -14,6 +14,6 @@ You find scripts to run these tools in `package.json`:
   "lint:js": "eslint . --ext js --report-unused-disable-directives --max-warnings 0",
   "lint:js:fix": "eslint . --ext js --report-unused-disable-directives --max-warnings 0 --fix",
   "lint:markdown": "markdownlint-cli2",
-  "lint:markdown:fix": "markdownlint-cli2-fix"
+  "lint:markdown:fix": "markdownlint-cli2 --fix"
 }
 ```
