@@ -2,7 +2,7 @@
 
 - JavaScript
   - Tool: [ESLint](https://eslint.org/)
-  - Config file: `.eslintrc.cjs`
+  - Config file: `eslint.config.js`
 - Markdown
   - Tool: [markdownlint-cli2](https://github.com/DavidAnson/markdownlint-cli2)
   - Config file: `.markdownlint-cli2.cjs`
